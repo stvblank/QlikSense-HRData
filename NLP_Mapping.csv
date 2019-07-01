@@ -1,0 +1,36 @@
+﻿%NLP_Alias,%NLP_Original_Value,%NLP_Item_Type,%NLP_Name
+Evy,Evelyn,Name,
+Emmy,Emilia,Name,
+Landing,Dashboard,Sheet,
+Total,Sum,Function,
+Mean,Avg,Function,
+US,United States,Country,
+USA,United States,Country,
+Employee,Employee_ID,Dimension,
+Number,Count,Function,
+Minimum,Min,Function,
+Highest,Max,Function,
+Lowest,Min,Function,
+Maximum,Max,Function,
+Top,Max,Function,
+Most,Max,Function,
+Least,Min,Function,
+Over,>,Modifier,
+More Than,>,Modifier,
+Less Than,<,Modifier,
+Greater Than,>,Modifier,
+Above,>,Modifier,
+Below,<,Modifier,
+Cheaper,<,Modifier,
+List,table,Visualization_Type,
+,Avg,Function,Average
+,Min,Function,Min
+,Max,Function,Max
+,Count,Function,Count
+,Sum,Function,Sum
+,+,Operator,Or
+,*,Operator,And
+,-,Negation,Not
+,-,Negation,Outside
+,Distinct,Distinct,Unique
+,Distinct,Distinct,Distinct
